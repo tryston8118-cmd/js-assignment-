@@ -1,4 +1,4 @@
-# js-assignment-
+# LinguaBridge
 # Translator AI (DeepSeek-R1:8B)
 
 A simple, local-first web application that translates between English and Korean using the DeepSeek-R1:8B model via Ollama. The app intelligently detects the input language and provides natural, everyday translations.
